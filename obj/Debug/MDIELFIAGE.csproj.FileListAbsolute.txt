@@ -1,0 +1,40 @@
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\bin\Debug\MDIELFIAGE.exe.config
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\bin\Debug\MDIELFIAGE.exe
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\bin\Debug\MDIELFIAGE.pdb
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.AssemblyReference.cache
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Form1.resources
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Properties.Resources.resources
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.GenerateResource.cache
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.CoreCompileInputs.cache
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.exe
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.pdb
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.FormEtudiant.resources
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.FormClasse.resources
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.dll
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.xml
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.Up2Date
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Migrations.creation_classe_etudiant.resources
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Migrations.UpdateClasseEtudiant.resources
+C:\Users\DIEYNABA\Desktop\C SHARP\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Migrations.InitialCreate.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\bin\Debug\MDIELFIAGE.exe.config
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\bin\Debug\MDIELFIAGE.exe
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\bin\Debug\MDIELFIAGE.pdb
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Form1.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.FormClasse.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.FormEtudiant.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Migrations.creation_classe_etudiant.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Migrations.UpdateClasseEtudiant.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Migrations.InitialCreate.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.Properties.Resources.resources
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.csproj.Up2Date
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.exe
+C:\Users\hp\Desktop\CoursL3_IAGE\C#\MDIELFIAGE\MDIELFIAGE\obj\Debug\MDIELFIAGE.pdb
